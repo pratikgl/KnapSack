@@ -28,3 +28,6 @@ g++ -o KnapSack.exe main.cpp
 
 ## Contributing
 The implementation is simple and straightforward. However, the efficiency of the implementation can be improved. Please feel free to contribute.
+
+## License
+[MIT](https://github.com/pratikgl/KnapSack/blob/master/LICENSE)
